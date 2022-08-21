@@ -11,6 +11,10 @@
 
 ## 入门系列
 
-1. Pytorch入门实战（1） - 实现线性回归: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/121418622) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/01_linear_regression.ipynb) 
-2. Pytorch入门实战（2）-使用BP神经网络实现MNIST手写数字识别: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/122800647), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/02_MNIST_classification.ipynb)
-3. 
+1. Pytorch入门实战（1）：实现线性回归: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/121418622) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/01_linear_regression.ipynb) 
+2. Pytorch入门实战（2）：使用BP神经网络实现MNIST手写数字识别: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/122800647), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/02_MNIST_classification.ipynb)
+3. Pytorch入门实战（3）：使用简单CNN实现物体分类: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/125020186), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/03_cnn_image_classification.ipynb)
+4. Pytorch入门实战（4）：基于LSTM实现文本的情感分析: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/122838743), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/04_LSTM_sentiment_analysis.ipynb)
+5. Pytorch入门实战（5）：基于nn.Transformer实现机器翻译（英译汉）： [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/126175328) ，[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/chaotic-transformer-tutorials/blob/master/en_to_zh_demo.ipynb) , [代码在这](https://github.com/iioSnail/chaotic-transformer-tutorials/blob/master/en_to_zh_demo.ipynb)
+6. Pytorch入门实战（6）：基于GAN生成简单的动漫人物头像： [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/125675557) , 
+7. 
