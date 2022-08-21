@@ -11,5 +11,6 @@
 
 ## 入门系列
 
-1. Pytorch入门实战（1） - 实现线性回归: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/121418622) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/01_linear_regression.ipynb) ）
-2. 
+1. Pytorch入门实战（1） - 实现线性回归: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/121418622) , [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/01_linear_regression.ipynb) 
+2. Pytorch入门实战（2）-使用BP神经网络实现MNIST手写数字识别: [博客地址](https://blog.csdn.net/zhaohongfei_358/article/details/122800647), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/02_MNIST_classification.ipynb)
+3. 
