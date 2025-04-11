@@ -22,4 +22,6 @@ To address these two issues, I built this project with a focus on using the simp
 || 07. Textual Metaphor Binary Classification with BERT | [Blogger](https://iiosnail.blogspot.com/2024/11/pytorch-en-07.html) | [Open In Colab](https://github.com/iioSnail/chaotic-transformer-tutorials/blob/master/bert_classification_demo.ipynb) |
 || 08. Few-shot Learning for Image Classification | [Blogger](https://iiosnail.blogspot.com/2024/11/pytorch-en-08.html) | [Open In Colab](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/08_few_shot_learning.ipynb) |
 | PyTorch Applications | 01. Video Face Mosaic Processing with YOLO | [Blogger](https://iiosnail.blogspot.com/2024/12/mosaic-en.html) | [Open In Colab](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/101_mosaic_video.ipynb) |
-|| 02. Pedestrian Flow Counting with YOLO | TODO | TODO |
+|| 02. Generate Lip-syncing Video with Wav2Lip | TODO | [Open In Colab](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/102_Wav2Lip_Inference.ipynb) |
+| LLM Applications | 01. A Native RAG Example with LangChain | [Blogger](https://iiosnail.blogspot.com/2025/04/native-rag.html) | [Open In Colab](https://colab.research.google.com/github/iioSnail/pytorch_deep_learning_examples/blob/main/201_native_rag.ipynb) |
+
