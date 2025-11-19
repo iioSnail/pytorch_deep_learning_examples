@@ -1,0 +1,18 @@
+spring:
+  ai:
+    mcp:
+      server:
+        enabled: true  # Enable MCP Server
+        protocol: STATELESS  # Use Stateless streamable HTTP method
+        annotation-scanner:
+          enabled: true  # Enable annotation scanning for @McpTool annotation
+        streamable-http:
+          mcp-endpoint: /api/mcp-endpoint  # Define endpoint for MCP Client to discover available tools
+        capabilities:
+          tool: true  # Indicate this MCP Server provides tool capabilities
+  application:
+    name: shop
+  aop:
+    auto: true
+    proxy-target-class: true
+
