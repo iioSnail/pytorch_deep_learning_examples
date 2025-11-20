@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: mcp-client
+  ai:
+    deepseek:
+      api-key: sk******adc   # Config your api key.
+    mcp:
+      client:
+        streamable-http:
+          connections:
+            MyMcpServer1:
+              url: http://localhost:8080
+              endpoint: /api/mcp-endpoint
+
+server:
+  port: 8081
+
